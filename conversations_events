@@ -1,0 +1,8 @@
+CREATION creator
+
+ADD user_added user_who_added
+
+LEAVE user
+
+CHANGE_NAME name user
+
